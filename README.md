@@ -11,8 +11,8 @@ To contribute to Raptor, please [file a bug on Bugzilla](https://bugzilla.mozill
 
 ## Maintainers
 
-Eli Perelman, [eli@mozilla.com](mailto:eli@mozilla.com), :Eli on Mozilla IRC
-Rob Wood, [rwood@mozilla.com](mailto:rwood@mozilla.com), :rwood on Mozilla IRC
+- Eli Perelman, [eli@mozilla.com](mailto:eli@mozilla.com), :Eli on Mozilla IRC
+- Rob Wood, [rwood@mozilla.com](mailto:rwood@mozilla.com), :rwood on Mozilla IRC
 
 # Support
 
